@@ -1,10 +1,10 @@
 # Face_Emotion_Detection
-Introduction
+Introduction:  
 The main aim of this project is to determine the emotion of the person using deep convolutional neural networks. The model is trained using FER-2013 dataset from kaggle which contains 7 classes of emotions namely happy,sad,angry,disgust,surprised,fearful and neutral.
 
 Dataset Link: https://www.kaggle.com/datasets/msambare/fer2013
 
-Getting Started
+Getting Started:  
 Install the requirements : pip install -r requirements.txt
 
 Clone the repository:
